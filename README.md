@@ -10,7 +10,9 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/japneetkaur2706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Japneet Kaur LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:d.japneetofficial27@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Japneet Kaur Gmail" height="30" width="40" /></a>
+  <a href="mailto:d.japneetofficial27@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Japneet Kaur Gmail" height="30" width="40" />
+</a>
   <a href="https://www.kaggle.com/japneetkaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Japneet Kaur Kaggle" height="30" width="40" /></a>
 </p>
 <!---
