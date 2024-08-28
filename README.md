@@ -9,12 +9,17 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 ### Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/japneetkaur2706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Japneet Kaur LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/japneetkaur2706" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Japneet Kaur LinkedIn" height="30" width="40" style="padding: 0 10px;" />
+  </a>
   <a href="mailto:d.japneetofficial27@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Japneet Kaur Gmail" height="30" width="40" />
-</a>
-  <a href="https://www.kaggle.com/japneetkaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Japneet Kaur Kaggle" height="30" width="40" /></a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Japneet Kaur Gmail" height="30" width="40" style="padding: 0 10px;" />
+  </a>
+  <a href="https://www.kaggle.com/japneetkaur" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Japneet Kaur Kaggle" height="30" width="40" style="padding: 0 10px;" />
+  </a>
 </p>
+
 <!---
 [![Linkedin Badge](https://img.shields.io/badge/-Kavya_D-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kavya2099/)](https://www.linkedin.com/in/Kavya2099/)  
  [![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-blue.svg)](https://www.kaggle.com/kavya2099)
