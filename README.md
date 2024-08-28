@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋<br>I'm Japneet Kaur</h1>
 
@@ -36,7 +36,7 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 
 <!---
 [![HitCount](http://hits.dwyl.com/Kavya2099/Kavya2099.svg)](http://hits.dwyl.com/Kavya2099/Kavya2099)   --->
-[![ViewCount](https://views.whatilearened.today/views/github/japneet2730/japneet2730.svg) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
+![ViewCount](https://views.whatilearened.today/views/github/japneet2730/japneet2730.svg) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
 
 </div>
 
