@@ -32,32 +32,33 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 ### Languages and Stats: 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="padding: 0 150px;">
+  <div style="margin: 0 20px;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
   </div>
-  <div style="padding: 0 150px;">
+  <div style="margin: 0 20px;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" />
     </a>
   </div>
-  <div style="padding: 0 150px;">
+  <div style="margin: 0 20px;">
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
     </a>
   </div>
-  <div style="padding: 0 150px;">
+  <div style="margin: 0 20px;">
     <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Artificial_Intelligence_and_Machine_Learning.png" alt="Machine Learning" width="40" height="40" />
     </a>
   </div>
-  <div style="padding: 0 150px; width: 60px;">
+  <div style="margin: 0 20px;">
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="60" height="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="80" />
     </a>
   </div>
 </div>
+
 
 
 
