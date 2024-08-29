@@ -31,7 +31,7 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 
 ### Languages and Stats: 
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="padding: 0 150px;">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -60,6 +60,7 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
     </td>
   </tr>
 </table>
+
 
 
 
