@@ -31,23 +31,35 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 
 ### Languages and Stats: 
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Machine_Learning_Icon.png" alt="Machine Learning" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding: 0 150px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 150px;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 150px;">
+      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 150px;">
+      <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/dair-ai/ML-Resources/main/assets/images/machine_learning.png" alt="Machine Learning" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 150px;">
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
