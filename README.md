@@ -10,13 +10,13 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/japneetkaur2706" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Japneet Kaur LinkedIn" height="30" width="40" style="padding: 0 50px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Japneet Kaur LinkedIn" height="30" width="40" style="padding: 0 150px;" />
   </a>
   <a href="mailto:d.japneetofficial27@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Japneet Kaur Gmail" height="30" width="40" style="padding: 0 50px;" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Japneet Kaur Gmail" height="30" width="40" style="padding: 0 150px;" />
   </a>
   <a href="https://www.kaggle.com/japneetkaur" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Japneet Kaur Kaggle" height="30" width="40" style="padding: 0 50px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Japneet Kaur Kaggle" height="30" width="40" style="padding: 0 150px;" />
   </a>
 </p>
 
