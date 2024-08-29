@@ -49,7 +49,7 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
   </div>
   <div style="margin: 0 20px;">
     <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Artificial_Intelligence_and_Machine_Learning.png" alt="Machine Learning" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQ0Q-3pJWqXEDjpBVHsgaZcxkAqK84z4deQ&s" alt="Machine Learning" width="40" height="40" />
     </a>
   </div>
   <div style="margin: 0 20px;">
