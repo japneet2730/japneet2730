@@ -31,35 +31,33 @@ I use Python for creating Machine Learning projects.I use Google Colab, VS code 
 
 ### Languages and Stats: 
 
-<div style="display: flex; justify-content: flex-start; align-items: center;">
-  <div style="margin: 0 10px;">
+<div style="display: flex; align-items: center; overflow-x: auto; white-space: nowrap;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
   </div>
-  <div style="margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" />
     </a>
   </div>
-  <div style="margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
     </a>
   </div>
-  <div style="margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQ0Q-3pJWqXEDjpBVHsgaZcxkAqK84z4deQ&s" alt="Machine Learning" width="50" height="50" />
     </a>
   </div>
-  <div style="margin: 0 10px;">
+  <div style="display: inline-block; margin: 0 10px;">
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="80" />
     </a>
   </div>
 </div>
-
-
 
 
 
